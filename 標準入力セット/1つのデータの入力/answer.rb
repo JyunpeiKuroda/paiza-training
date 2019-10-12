@@ -1,1 +1,3 @@
-puts "hello world"
+input = gets
+
+puts input
